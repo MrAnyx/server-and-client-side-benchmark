@@ -1,0 +1,12 @@
+{
+    "name": "robin/slim-php",
+    "autoload": {
+        "psr-4": {
+            "Robin\\SlimPhp\\": "src/"
+        }
+    },
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.5"
+    }
+}
